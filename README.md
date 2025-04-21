@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bashiru-Abdullateef
-- 👀 I’m interested in HTML, CSS and javarscript
-- 🌱 I’m currently learning javarscript and firebase
+- 👀 I’m interested in HTML, CSS and javarscript, Cloud configuration, php
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  09112759499 
+- 📫 How to reach me  09064713544 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
