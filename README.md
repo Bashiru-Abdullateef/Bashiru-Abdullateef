@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bashiru-Abdullateef
-- 👀 I’m interested in HTML, CSS and javarscript, Cloud configuration, php
-- 🌱 I’m currently learning php
+- 👀 I’m interested in HTML, CSS and javarscript, Cloud configuration, php, java
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  09064713544 
 - 😄 Pronouns: ...
